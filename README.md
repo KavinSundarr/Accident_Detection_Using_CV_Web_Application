@@ -1,7 +1,7 @@
 # Accident_Detection_Using_CV_Web_Application
 
 Our team has successfully developed an innovative crash detection model leveraging the powerful YOLOv8 architecture. This cutting-edge solution is designed to provide real-time object detection capabilities, particularly for critical applications like crash detection.
-## Test our Model - [Website](http://accidentdetect.digitalnoook.com/)
+## Test our Model - (http://accidentdetect.digitalnoook.com/)
 
 ![Crash_4-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/irohan0/Crash-Detection/assets/121719717/7f4b0ab7-decd-4869-810d-bc914c50628b)  ![gif_crash_1](https://github.com/irohan0/Crash-Detection/assets/121719717/6650d8f2-d5da-4574-98eb-a588589f8f13)
 

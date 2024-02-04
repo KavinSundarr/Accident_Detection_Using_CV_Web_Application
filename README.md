@@ -12,10 +12,15 @@ The model's performance metrics are exceptional, boasting a Mean Average Precisi
 
 ## Model Results :
 ![results](https://github.com/irohan0/Crash-Detection/assets/121719717/220c462c-9077-4279-af4a-94302d9b5394)
-                                         Fig - Results
+<p align="center">
+Fig - Results
+</p>
+                                         
                                          
 ![confusion_matrix_normalized](https://github.com/irohan0/Crash-Detection/assets/121719717/e892bf6f-3313-42c2-bba8-25a3d755f10d)
-                                         Fig - Confusion MAtrix
+<p align="center">
+Fig - Confusion Matrix
+</p>
 
 ## End-to-End Website:
 

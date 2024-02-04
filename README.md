@@ -15,6 +15,7 @@ The model's performance metrics are exceptional, boasting a Mean Average Precisi
 
 ## Classes: 
 ![image](https://github.com/KavinSundarr/Accident_Detection_Using_CV_Web_Application/assets/125127003/75d89f26-a781-4b9a-bda8-0b1e06de6596)
+
 The corresponding colours for identifying the labels
 
 ## Model Results :

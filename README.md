@@ -29,13 +29,15 @@ Fig - Confusion Matrix
 ## End-to-End Website:
 
 The development of an end-to-end website was done using Wordpress and integrating our trained model that not only allows users to access results but also enables them to test our model with their own datasets and test our model in real time. Our website features an intuitive and user-friendly interface, providing clear instructions, and an interactive platform for users to upload and test their own data. The goal is to make the evaluation process seamless and accessible.
-
+<p align="center">
 ![82d4bb2a-786c-4c94-a402-abc5967b0f03](https://github.com/irohan0/Crash-Detection/assets/121719717/1be2a938-0bfa-4744-bffb-aa9fbbad67e1)
+</p>
 
 The website is designed to send an in app SOS notification when our model detects an accident occurs.
 
+<p align="center">
 ![detect](https://github.com/irohan0/Crash-Detection/assets/121719717/a852a1cb-b9a8-4f4d-9414-540dfd0f393d)
-
+</p>
 
 ## Contributors :
 1. Rohan Inamdar (VIT CHennai)

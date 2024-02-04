@@ -7,8 +7,8 @@ Our team has successfully developed an innovative crash detection model leveragi
 | ----------------------------------- | ----------------------------------- |
 | ![Crash_4-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/irohan0/Crash-Detection/assets/121719717/7f4b0ab7-decd-4869-810d-bc914c50628b) | ![gif_crash_1](https://github.com/irohan0/Crash-Detection/assets/121719717/6650d8f2-d5da-4574-98eb-a588589f8f13) |
 <p float="left">
-  <img src="https://github.com/irohan0/Crash-Detection/assets/121719717/7f4b0ab7-decd-4869-810d-bc914c50628b" width="33%" />
-  <img src="https://bobbyhadz.com/images/blog/what-aws-cdk-bootstrap-do/thumbnail.webp](https://github.com/irohan0/Crash-Detection/assets/121719717/6650d8f2-d5da-4574-98eb-a588589f8f13" width="33%" />
+  <img src="https://github.com/irohan0/Crash-Detection/assets/121719717/7f4b0ab7-decd-4869-810d-bc914c50628b" width="40%" />
+  <img src="https://github.com/irohan0/Crash-Detection/assets/121719717/6650d8f2-d5da-4574-98eb-a588589f8f13" width="40%" />
 </p>
 
 ## Key Metrics:

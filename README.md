@@ -7,15 +7,15 @@ Our team has successfully developed an innovative crash detection model leveragi
 | ----------------------------------- | ----------------------------------- |
 | ![Crash_4-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/irohan0/Crash-Detection/assets/121719717/7f4b0ab7-decd-4869-810d-bc914c50628b) | ![gif_crash_1](https://github.com/irohan0/Crash-Detection/assets/121719717/6650d8f2-d5da-4574-98eb-a588589f8f13) |
 
-## Classes: 
-The corresponding colours for identifying the labels
-![image](https://github.com/KavinSundarr/Accident_Detection_Using_CV_Web_Application/assets/125127003/75d89f26-a781-4b9a-bda8-0b1e06de6596)
-
 
 ## Key Metrics:
 ![image](https://github.com/irohan0/Crash-Detection/assets/121719717/2d62cdf2-888c-4cbc-a314-a095c7e66bcd)
 
 The model's performance metrics are exceptional, boasting a Mean Average Precision (mAP) of 96.6. Additionally, precision and recall scores of 89.1 and 90.2, respectively, showcase the model's robustness in minimizing false positives and false negatives.
+
+## Classes: 
+![image](https://github.com/KavinSundarr/Accident_Detection_Using_CV_Web_Application/assets/125127003/75d89f26-a781-4b9a-bda8-0b1e06de6596)
+The corresponding colours for identifying the labels
 
 ## Model Results :
 ![results](https://github.com/irohan0/Crash-Detection/assets/121719717/220c462c-9077-4279-af4a-94302d9b5394)

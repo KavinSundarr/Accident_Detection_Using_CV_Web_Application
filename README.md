@@ -47,6 +47,6 @@ The website is designed to send an in app SOS notification when our model detect
 </p>
 
 ## Contributors :
-1. Rohan Inamdar (VIT CHennai)
+1. Rohan Inamdar (VIT Chennai)
 2. S. Kavin Sundarr (VIT Chennai)
 3. Shaik Nadeem Ansari (VIT Chennai)
